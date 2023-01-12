@@ -1,0 +1,13 @@
+---
+title: "Wk 1 Homework"
+author: "Jennifer Rana & Becca Barbanell"
+format: html
+editor: visual
+---
+
+## Homework 1
+
+```{r}
+
+```
+
