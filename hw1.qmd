@@ -10,5 +10,5 @@ editor: visual
 ```{r}
 library(tidyverse)
 mtcars %>% summary
-
+mtcars %>% ggplot() + aes(x=cyl) + geom_bar() + theme_minimal()
 ```
